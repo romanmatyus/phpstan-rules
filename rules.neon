@@ -1,7 +1,4 @@
 parameters:
-	stubFiles:
-		- src/stubs/BasePluginDefinition.stub
-		- src/stubs/PluginDefinitionInterface.stub
 
 services:
     guzzleClientCallWithoutTimeoutOptionRule:
